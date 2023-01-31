@@ -1,2 +1,3 @@
 # Node.js Crash Course 
-1. file
+1. File
+2. Stream
