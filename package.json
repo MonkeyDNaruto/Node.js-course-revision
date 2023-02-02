@@ -1,0 +1,23 @@
+{
+  "name": "node.js-course-revvision",
+  "version": "1.0.0",
+  "description": "1. File 2. Stream",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeyDNaruto/Node.js-course-revision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonkeyDNaruto/Node.js-course-revision/issues"
+  },
+  "homepage": "https://github.com/MonkeyDNaruto/Node.js-course-revision#readme",
+  "dependencies": {
+    "data-fns": "^0.1.8"
+  }
+}
