@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MonkeyDNaruto/Node.js-course-revision#readme",
   "dependencies": {
-    "data-fns": "^0.1.8"
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
   }
 }
