@@ -1,27 +1,20 @@
-const http = require("http");
+const express = require("express");
+const app = express();
 const path = require("path");
-const fs = require("fs");
-const fsPromises = require("fs").promises;
 
-const logEvents = require("./logEvents");
-const EventEmitter = require("events");
-class Emitter extends EventEmitter { }
-// initiazile object
-const myEmitter = new Emitter();
-
-// Creating Server
-const server = http.createServer((req, res) => {
-    console.log('gg');
+app.get("/", (req, res) => {
+    res.sendFile('./views/index.html', { root: __dirname })
 })
 
-// Listenig to server on port 3000
-server.listen(3000, (req, res) => {
-    console.log("Server is listening on port: 3000.")
+app.get("/about", (req, res) => {
+    res.sendFile('./views/about.html', { root: __dirname })
+})
+
+
+app.get("/*", (req, res) => {
+    res.status(404).sendFile('./views/404.html', { root: __dirname })
 });
 
-
-/*
-myEmitter.on('log', (msg) => logEvents(msg));
-
-    myEmitter.emit('log', "log event emitted");
-*/
+app.listen(3000, (req, res) => {
+    console.log("Server is listening on port: 3000...")
+})
