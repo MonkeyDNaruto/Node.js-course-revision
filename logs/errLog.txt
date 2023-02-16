@@ -1,1 +1,6 @@
 20230215	14:16:17	06e03c1b-e399-4b35-9870-a4719469b31d	Error: Not allowed by CORS
+20230216	15:53:29	c08ca945-24ab-4f92-8c12-1521d2f0c253	Error: ENOENT: no such file or directory, stat '/home/nischal/Documents/Node.js-course-revvision/routes/views/subdir/test'
+20230216	15:53:36	f9f77300-a613-4b44-8faa-5a0d1d592373	Error: ENOENT: no such file or directory, stat '/home/nischal/Documents/Node.js-course-revvision/routes/views/subdir/test'
+20230216	15:55:19	b91b9150-5617-40db-b646-4f73bf5ecece	Error: ENOENT: no such file or directory, stat '/home/nischal/Documents/Node.js-course-revvision/routes/views/subdir/test'
+20230216	16:01:02	2152fe56-1c96-4b16-80c0-0c4a70c5392d	ForbiddenError: Forbidden
+20230216	16:01:03	ded41a42-2c64-4536-a9b7-c702286823e2	ForbiddenError: Forbidden
