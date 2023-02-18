@@ -63,3 +63,8 @@
 20230216	16:20:32	dafd6cd4-a423-4c99-9469-0ace21360b4e	GET	undefined	/subdir/css/style.css
 20230216	16:20:38	f0377115-8993-42a4-ad8e-29951a59e31a	GET	undefined	/subdir/ggg
 20230216	16:20:38	097b2195-0397-4071-865d-8b232ea97ce1	GET	undefined	/subdir/css/style.css
+20230218	14:17:15	09bdfdc9-ff44-4513-98bf-051ec5566758	GET	undefined	/
+20230218	14:17:15	00dc4986-da4a-4cc2-9fdc-83b73be92a7e	GET	undefined	/css/style.css
+20230218	14:17:25	aa43b23f-2e3a-4b07-bc09-a53098968ba0	GET	undefined	/
+20230218	14:17:25	b69347f4-6b15-483c-b473-c94bcd00ba61	GET	undefined	/css/style.css
+20230218	14:17:25	f4141da8-a60d-447a-afae-96f96b85ec6a	GET	undefined	/favicon.ico
