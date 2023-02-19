@@ -6,3 +6,4 @@
 5. Middleware
 6. Router
 7. MCV REST API
+8. Authentication

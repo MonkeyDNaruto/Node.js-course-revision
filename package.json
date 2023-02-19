@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MonkeyDNaruto/Node.js-course-revision#readme",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "date-fns": "^2.29.3",
