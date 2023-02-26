@@ -82,3 +82,6 @@
 20230223	14:41:43	7c9018e4-4380-4b22-94c0-30336338cd10	GET	undefined	/favicon.ico
 20230223	14:41:46	bc8f5508-11d6-4c2f-8d6f-3db7f48d624c	GET	undefined	/subdirfh
 20230223	14:41:46	f7e84237-5436-45dd-947f-e8c8beebbbf6	GET	undefined	/favicon.ico
+20230226	15:16:53	7c8b46cf-bb1d-4947-af30-024dc442cb5a	GET	undefined	/
+20230226	15:16:53	2a039f5e-64ec-4253-bbe6-04c9b373d9f8	GET	undefined	/css/style.css
+20230226	15:16:53	39785376-ab98-495d-a4a2-b1d5b2a8bac7	GET	undefined	/favicon.ico
