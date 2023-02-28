@@ -10,6 +10,9 @@ const cookieParser = require('cookie-parser');
 const credentials = require('./middleware/credentials');
 const PORT = process.env.PORT || 3500;
 
+// Connecting to db
+const db = require("./config/mongoose")
+
 // custom middleware logger
 app.use(logger);
 
